@@ -1,11 +1,7 @@
 # Portfolio Project (Data Analysis): Bank Loan Lending Data Analytics.
-### Arnav Chaturvedi
+### Vishrut Gupta
 ### Project Role: Data Analyst – Financial Bank.
 
-
-The Tableau Dashboard. Please visit my Tableau Public account.
-Use CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link to open in a new browser tab. 
-* Dashboard Link:  https://public.tableau.com/app/profile/arnav.chaturvedi/viz/BankLoan-LendingDataAnalytics/OVERVIEW
 
 ## Portfolio Project Overview:
 A financial bank wants to utilize their available loan lending data to analyze and gain insights for financial planning. These insights from loan data provide key information for making decisions for future lending planning, managing risks and improving bank load recovery etc.
@@ -131,11 +127,6 @@ Created ‘Navigation’ buttons to navigate among various dashboards (Summary, 
 * ReadMe-BankLoan-LendingDataAnalysis(SQL-Tableau).pdf
 * SQL Script-BankLoan-LendingDataAnalysis.pdf
 * Business Requirements-BankLoan-LendingDataAnalysis.pdf
-### Output File (Published on my Tableau Public account):
-* Tableau Public – Dashboard Link: https://public.tableau.com/app/profile/arnav.chaturvedi/viz/BankLoan-LendingDataAnalytics/OVERVIEW
-The Tableau Dashboard. Please visit my Tableau Public account.
-Use CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link to open in a new browser tab.
-
 
 ## Dynamic and Interactive Dashboard (SUMMARY):
 ![image](https://github.com/user-attachments/assets/ceb5e64b-3719-4436-998c-537b8e4db617)
